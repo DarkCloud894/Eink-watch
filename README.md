@@ -12,4 +12,4 @@ MCU firmware and how to flash it:
 
 ## Software part 
 Android application for your phone: 
-
+[SoHyCa/ClockApp](https://github.com/SoHyCa/ClockApp)
