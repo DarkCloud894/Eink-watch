@@ -4,11 +4,11 @@ Meta-repository of the e-ink watch project. This is the ateemt of the creating o
 # Parts of the project
 ## Hardware part
 All 3d models, pcb and other things to build the project: 
-[Clickable Text](github.com/DarkCloud894/Eink-watch-hardware)
+[DarkCloud894/Eink-watch-hardware](github.com/DarkCloud894/Eink-watch-hardware)
 
 ## Firmware part: 
 MCU firmware and how to flash it: 
-[Clickable Text](github.com/qirieshkaclwn/c3-epaper)
+[qirieshkaclwn/c3-epaper](github.com/qirieshkaclwn/c3-epaper)
 
 ## Software part 
 Android application for your phone: 
