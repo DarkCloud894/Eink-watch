@@ -42,6 +42,10 @@ A minimalist e‑ink smartwatch focused on essential functions: time/date, notif
 - **Custom PCB, case & strap**
 
 ### System Block Diagram
+<div style="background-color: #f0f0f0; padding: 10px; display: inline-block;">
+  <img src="/docs/media/block_diagram.png" alt="block_diagram.png" width="300">
+</div>
+
 ![Block Diagram](docs/media/block_diagram.png)
 
 ## Software Features
